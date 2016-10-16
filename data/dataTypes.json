@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "value": "int"
+  },
+  {
+    "id": "2",
+    "value": "int[]"
+  },
+  {
+    "id": "3",
+    "value": "int[][]"
+  },
+  {
+    "id": "4",
+    "value": "float"
+  },
+  {
+    "id": "5",
+    "value": "float[]"
+  },
+  {
+    "id": "6",
+    "value": "float[][]"
+  },
+  {
+    "id": "7",
+    "value": "boolean"
+  },
+  {
+    "id": "8",
+    "value": "boolean[]"
+  },
+  {
+    "id": "9",
+    "value": "intCoord"
+  },
+  {
+    "id": "10",
+    "value": "intCoord[]"
+  },
+  {
+    "id": "11",
+    "value": "intCoord[][]"
+  },
+  {
+    "id": "12",
+    "value": "floatCoord"
+  },
+  {
+    "id": "13",
+    "value": "floatCoord[]"
+  },
+  {
+    "id": "14",
+    "value": "floatCoord[][]"
+  }
+]
