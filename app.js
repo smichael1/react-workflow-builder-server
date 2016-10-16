@@ -111,7 +111,7 @@ app.post('/api/datamodel/elements/update', function(req, res) {
 app.delete("/api/datamodel/elements/:id", function(req, res) {
     var fparamId = req.params.id;
 
-    console.dir('deleting....');
+    console.dir('deleting...');
     console.dir(fparamId);
 
     dataModelElements = dataModelElements.filter(r => r.id != fparamId);
